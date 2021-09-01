@@ -1,0 +1,138 @@
+.home-text {
+    margin-top: 5%;
+    font-family: pixel;
+    font-size: 150%;
+    color: rgb(153, 53, 179);
+}
+
+.card-left {
+    box-shadow: 0px 12px 12px -2px gray;
+    background: rgb(120,52,214);
+    background: linear-gradient(0deg, rgba(120,52,214,1) 0%, rgba(178,28,227,1) 100%, rgba(139,63,216,1) 100%, rgba(54,139,192,1) 100%, rgba(25,164,184,1) 100%);
+}
+
+.card-right {
+    box-shadow: 0px 12px 12px -2px gray;
+    background: rgb(52,85,214);
+    background: linear-gradient(0deg, rgba(52,85,214,1) 0%, rgba(28,196,227,1) 84%, rgba(25,164,184,1) 100%);
+}
+
+mark { 
+    background-color: rgb(228, 241, 250);
+    color: rgb(68, 139, 185);
+}
+
+.card-title-left,.card-title-right {
+    display: inline-block;
+    vertical-align: top;
+    color: white;
+    font-family: pixel;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+.card-text {
+    font-family: pixel;
+    color: white;
+}
+
+.card-btn {
+    background-color: orange;
+    color: white;
+    border-radius: 40px;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.section-text {
+    color: rgb(68, 139, 185);
+    font-size: 170%;
+    font-family: pixel;
+}
+
+.home-section {
+    margin-top: 5%;
+    background-color:#f8f9fa;
+    padding-bottom: 5%;
+    margin-bottom: -15%;
+}
+
+.section-column {
+    padding: 10px; 
+    width: 51%; 
+    text-align: justify;
+    font-family: pixel;
+    color: rgb(68, 139, 185);
+}
+
+.section-column-left {
+    float: left; 
+}
+
+.section-column-right {
+    float: right; 
+    margin-right: -3%;
+}
+
+.home-cards2 {
+    margin-top: 20%;
+    margin-right: 12%;
+    color: rgb(68, 139, 185);
+    font-size: 150%;
+}
+
+.home-card-footer {
+    padding: .75rem 1.25rem;
+    text-align: center;
+    font-family: pixel;
+}
+
+.card-deck {
+    margin-top: 3%;
+    width: 60%;
+}
+
+.card-group {
+    margin-top: 3%;
+    width: 100%;
+    font-size: 80%;
+}
+
+#home-img-baby {
+    float: right;
+    margin-top: -15%;
+    margin-right: -15%;
+}
+
+#home-img-molecule {
+    float: left;
+    margin-bottom: 50%;
+}
+
+#home-img-molecule-green {
+    float: right;
+    margin-top: -15%;
+    margin-right: -30%;
+}
+
+#home-img-molecule-small {
+    margin-left: -8%;
+}
+
+#home-img-vacuna {
+    margin-top: -4%;
+    margin-left: 10%;
+    transform: rotate(90deg);
+}
+
+#home-img-molecule-purple {
+    margin-top: -4%;
+    margin-left: 75%;
+    transform: rotate(90deg);
+}
+
+#home-img-girl {
+    margin-right: 105%;
+    margin-top: -5%;
+    margin-bottom: -6%;
+}
