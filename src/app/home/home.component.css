@@ -5,6 +5,12 @@
     color: rgb(153, 53, 179);
 }
 
+.card {
+    border-color: transparent;
+    border-width: 0;
+    border-style: dashed;
+}
+
 .card-left {
     box-shadow: 0px 12px 12px -2px gray;
     background: rgb(120,52,214);
@@ -82,8 +88,14 @@ mark {
 }
 
 .home-card-footer {
-    padding: .75rem 1.25rem;
+    padding-bottom: 1.7rem;
     text-align: center;
+    font-family: pixel;
+}
+
+.home-card-footer-left {
+    padding-bottom: 1.7rem;
+    text-align: left;
     font-family: pixel;
 }
 
@@ -96,6 +108,20 @@ mark {
     margin-top: 3%;
     width: 100%;
     font-size: 80%;
+}
+
+.card-group-left {
+    background-image: url(../../assets/images/enfermedades_thumb.jpg); 
+    background-size: 130%;
+    background-position: left;
+    border-radius: 10px; 
+    margin-right: 2%;
+}
+
+.card-group-right {
+    background-image: url(../../assets/images/articulos_thumb.jpg); 
+    background-size: cover; 
+    border-radius: 10px;
 }
 
 #home-img-baby {

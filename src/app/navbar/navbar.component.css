@@ -14,11 +14,19 @@
     color: rgb(52, 90, 146);
     display: inline-block;
     vertical-align: top;
-    margin-bottom: -40%;
+    margin-bottom: -45%;
 }
 
-#nav-img-calendar, #nav-img-location, #nav-img-molecule{
+.nav-item {
+    margin-right: 10px;
+}
+
+#nav-img-calendar, #nav-img-location{
     margin-top: 5%;
+}
+
+#nav-img-molecule {
+    margin-top: 2%;
 }
 
 #nav-img-article {
