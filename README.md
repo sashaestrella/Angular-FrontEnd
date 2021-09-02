@@ -1,5 +1,5 @@
 # Angular Frontend
 
 Para iniciar el proyecto:
-# npm install 
-# npm start
+## npm install 
+## npm start
